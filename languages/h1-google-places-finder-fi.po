@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: H1 Google Places Finder\n"
 "POT-Creation-Date: 2016-06-07 08:41+0200\n"
-"PO-Revision-Date: 2016-06-07 08:41+0200\n"
+"PO-Revision-Date: 2016-11-10 14:06+0200\n"
 "Last-Translator: Tomi Mäenpää <tomimaen@gmail.com>\n"
 "Language-Team: Tomi Mäenpää <tomimaen@gmail.com>\n"
 "Language: fi\n"
@@ -28,16 +28,16 @@ msgstr "Postinumero / Osoite"
 
 #: h1-google-places-finder.php:308
 msgid "Address"
-msgstr ""
+msgstr "﻿Osoite"
 
 #: h1-google-places-finder.php:313
 msgid "Telephone"
-msgstr ""
+msgstr "﻿Puhelin"
 
 #: h1-google-places-finder.php:318
 msgid "Rating"
-msgstr ""
+msgstr "﻿Arviot"
 
 #: h1-google-places-finder.php:323
 msgid "Website"
-msgstr ""
+msgstr "﻿Sivusto"
